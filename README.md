@@ -1,4 +1,4 @@
-# Hello Jenkins with Java :Jenkins:
+# Hello Jenkins with Java :coffee:
 
 This is a simple **"Hello jenkins"** done with **Java** programming language.
 
