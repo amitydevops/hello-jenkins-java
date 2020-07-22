@@ -31,6 +31,6 @@ To execute the program, type this:
 ```console
 java HelloJenkins
 ```
-The example done from Git
+##Note this is for testing only
 
 
