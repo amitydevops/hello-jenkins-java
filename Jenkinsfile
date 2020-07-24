@@ -4,7 +4,7 @@ pipeline {
    stages {
       stage('Checkout') {
          steps {
-            git 'https://github.com/amitydevops/hello-world-java.git'
+            git 'https://github.com/amitydevops/hello-jenkins-java.git'
          }
       }
       stage('Build'){
